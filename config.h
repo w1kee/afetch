@@ -21,13 +21,13 @@
 
 #define CUSTOMART 0
 
-#define COL1 BRED     "\033[1;37m __   \n\033[1;36m"
-#define COL2 BRED     "\033[1;37m/  \\  \033[1;36m" //info starts on column 2
-#define COL3 BRED     "\033[1;37m|  |_ \033[1;36m"
-#define COL4 BRED     "\033[1;37m\\__/ \\\033[1;36m"
-#define COL5 BRED     "\033[1;37m   \\_/\033[1;36m"
-#define COL6 BRED     "\033[1;37m      \033[1;36m"
-#define COL7 BRED     "\033[1;37m      \033[1;36m" //info ends on column 7
+#define COL1 BRED     "\033[1;37m       \n\033[1;36m" //info ends on column 7
+#define COL2 BRED     "\033[1;37m ___     \033[1;36m"
+#define COL3 BRED     "\033[1;37m/   \\    \033[1;36m" //info starts on column 2
+#define COL4 BRED     "\033[1;37m|   |__  \033[1;36m"
+#define COL5 BRED     "\033[1;37m\\___/  \\ \033[1;36m"
+#define COL6 BRED     "\033[1;37m    \\__/ \033[1;36m"
+#define COL7 BRED     "\033[1;37m         \033[1;36m"
 #define COL8 BRED     ""
 
 
