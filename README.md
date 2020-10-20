@@ -1,5 +1,5 @@
 <h2 align="center"> afetch </h2>
-
+<!--- --!>
 <h3 align="center"> <img src="https://raw.githubusercontent.com/13-CF/afetch/master/logo.png"> </h3>
 
 
@@ -42,7 +42,7 @@ I have provided a manual for configuration in the [afetch.1](afetch.1) file. You
 **Configuration options**
 *  Custom colours
 *  Custom artwork
-*  Edit headings for info rows 
+*  Edit headings for info rows
 *  Force lowercase text (unstable)
 *  Show path to shell
 *  Select text colour
